@@ -13,6 +13,7 @@ There's an example of programm working:
 
 The programm also has the ability to randomly generate input data.
 
+It's worth mentioning that this is the inverse appearence of the bytes in register.
 
 ## To run the script
 
